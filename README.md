@@ -29,10 +29,11 @@ License
 I chose "MIT"
 
 Questions
-If you have any questions regarding this READme, please reach out via Github "https://github.com/LunaRossie/Readme-Generator--"
+If you have any questions regarding this READme, please reach out via Github "https://github.com/LunaRossie/Readme-Generator--". https://www.youtube.com/watch?v=0Qym1ID3vXg
 
 Email address
 If you have any questions regarding this READme, please reach out via email "Terminalbash2022@outlook.com"
 
 Video Link
-https://outlook.live.com/mail/0/inbox/id/AQQkADAwATMwMAItNGQ5Ni1hYzE2LTAwAi0wMAoAEADW7XfC%2BAH3Q788%2FG0s0K6d
+https://www.youtube.com/watch?v=0Qym1ID3vXg
+
