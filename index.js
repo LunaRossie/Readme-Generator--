@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 
 const generatePage = require(',/generateMarkdown.js');
 
-const questions = () => {
+const questions = () => {}
     return inquirer
     .prompt([
         {
@@ -114,10 +114,11 @@ const questions = () => {
             }
         }
     ])
+
     .then (data=>{
         const result = generateReadme (data);
         fs.writeFileSync(".ReadME.md", result)
-    })
+    });
 
     const writeFile = data => {
         fs.writeFile('README.md', data, err => {
@@ -125,7 +126,7 @@ const questions = () => {
                 console.log(err);
                 return;
             } else {
-                console.log("Your README has been successfully created!")
+                console.log("successfully created!")
             }
         })
     }; 
@@ -148,6 +149,4 @@ const questions = () => {
 // };
 
 // const greeting = `My name is ${Zhunn.first}!
-// I grew up in ${Zhunn.Cainta}.`;
-
-
+// I grew up in ${Zhunn.Cainta}.`
