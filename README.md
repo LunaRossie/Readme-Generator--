@@ -31,7 +31,7 @@ If you have any questions regarding this READme, please reach out via email "Ter
 
 ## Video Link
 
-https://www.youtube.com/watch?v=0Qym1ID3vXg
+https://www.youtube.com/watch?v=K3CSunBFGsQ
 
 
 ## Language
@@ -44,7 +44,7 @@ I chose "MIT"
 
 ## Questions
 
-If you have any questions regarding this READme, please reach out via Github "https://github.com/LunaRossie/Readme-Generator--". https://www.youtube.com/watch?v=0Qym1ID3vXg
+If you have any questions regarding this READme, please reach out via Github "https://github.com/LunaRossie/Readme-Generator--". 
 
 
 
